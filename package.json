@@ -1,0 +1,19 @@
+{
+  "name": "react-for-beginners",
+  "version": "1.0.0",
+  "description": "react for beginners with wes bos",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsteronfire/react-for-beginners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monsteronfire/react-for-beginners/issues"
+  },
+  "homepage": "https://github.com/monsteronfire/react-for-beginners#readme"
+}
